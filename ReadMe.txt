@@ -8,6 +8,11 @@ smallCamelCase
 BigCamelCase
 snake_case_style
 
+ERD:
+https://www.smartdraw.com/?srsltid=AfmBOopsz2xPJQl6_ByXk5lqI3AOmdwVD8JA3-cJTpxZWORezNzQWKIm
+https://mermaid.js.org/
+https://www.drawio.com/
+
 TODO:
 1. Выучить теорию;
 2. Найти редактор для ERD-диаграмм;
