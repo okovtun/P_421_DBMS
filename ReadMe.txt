@@ -7,6 +7,9 @@ Functions vs StoredProcedures:
 https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server
 
 TODO:
+1. При выставлении расписания предусмотреть каникулы и праздничные дни;
+
+DONE:
 0. Почитать про побитовые операторы;
 1. Дописать функцию 'GetNextLearningDay()', которая возвращает следующий день недели, в который занимается группа;	DONE
 2. Написать функцию 'GetNextLearningDate()', которая возвращает следующую дату, в которую занимается группа;		DONE

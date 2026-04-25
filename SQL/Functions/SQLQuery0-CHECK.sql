@@ -3,5 +3,5 @@ USE P_421_Import;
 SET DATEFIRST 1;
 
 --PRINT dbo.GetTeacherID(N'Антон');
-PRINT dbo.GetNextLearningDay(N'P_421', N'2026-04-21');
-PRINT dbo.GetNextLearningDate(N'P_421', N'2026-04-25');
+PRINT dbo.GetNextLearningDay(N'PV_212', N'2026-04-27');
+PRINT dbo.GetNextLearningDate(N'PV_212', N'2026-04-27');
