@@ -7,6 +7,10 @@ Functions vs StoredProcedures:
 https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server
 
 TODO:
+1. Изучить триггеры: https://learn.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver17;
+2. Написать триггер, который 20-го декабря каждого года выставляет все выходные дни на следующий год;
+
+DONE:
 1. При выставлении расписания предусмотреть каникулы и праздничные дни;
 
 DONE:
